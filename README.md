@@ -6,6 +6,12 @@ This Chrome extension will identify parts of a web page likely to contain KRK an
 
 Share with your friends and eliminate this so called celebrity.
 
+Installation (for Users)
+-------------------------
+
+It will soon be available in Chrome Web Store.
+
+
 Installation (for Developers)
 -------------------------
 Want to hack on the SRK Filter?  Sweet!
