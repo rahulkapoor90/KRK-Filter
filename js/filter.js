@@ -50,7 +50,7 @@ if (search) {
 	   console.log("Filter setting stored is: " + items.filter);
 	   elements = getElements(items.filter);
 	   filterElements(elements);
-	   chrome.runtime.sendMessage({method: "saveStats", trumps: elements.length}, function(response) {
+	   chrome.runtime.sendMessage({method: "saveStats", krk: elements.length}, function(response) {
 			  console.log("Logging " + elements.length + " KRK."); 
 		 });
 	 });
